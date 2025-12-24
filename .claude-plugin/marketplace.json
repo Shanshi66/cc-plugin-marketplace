@@ -1,5 +1,7 @@
 {
   "name": "shanshi-plugins-marketplace",
+  "description": "shanshi's personal plugins marketplace",
+  "version": "1.0.0",
   "owner": {
     "name": "shanshi"
   },
