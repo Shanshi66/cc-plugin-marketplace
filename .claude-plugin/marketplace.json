@@ -9,7 +9,12 @@
     {
       "name": "integration-test",
       "source": "./plugins/integration-test",
-      "description": "A plugin for integration testing"
+      "description": "前后端联调测试的插件"
+    },
+    {
+      "name": "seo-optimizer",
+      "source": "./plugins/seo-optimizer",
+      "description": "优化网站 SEO 的插件"
     }
   ]
 }
