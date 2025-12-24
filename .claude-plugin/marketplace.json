@@ -1,0 +1,13 @@
+{
+  "name": "shanshi-plugins-marketplace",
+  "owner": {
+    "name": "shanshi"
+  },
+  "plugins": [
+    {
+      "name": "integration-test",
+      "source": "./plugins/integration-test",
+      "description": "A plugin for integration testing"
+    }
+  ]
+}
