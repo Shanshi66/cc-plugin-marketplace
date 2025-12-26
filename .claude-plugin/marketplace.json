@@ -15,6 +15,11 @@
       "name": "seo-optimizer",
       "source": "./plugins/seo-optimizer",
       "description": "优化网站 SEO 的插件"
+    },
+    {
+      "name": "gzh-writer",
+      "source": "./plugins/gzh-writer",
+      "description": "公众号写作插件"
     }
   ]
 }
