@@ -20,6 +20,11 @@
       "name": "gzh-writer",
       "source": "./plugins/gzh-writer",
       "description": "公众号写作插件"
+    },
+    {
+      "name": "better-claude-code",
+      "source": "./plugins/better-claude-code",
+      "description": "更好的 Claude"
     }
   ]
 }
