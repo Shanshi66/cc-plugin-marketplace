@@ -1,7 +1,7 @@
 {
   "name": "shanshi-plugins-marketplace",
   "description": "shanshi's personal plugins marketplace",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "owner": {
     "name": "shanshi"
   },
@@ -25,6 +25,11 @@
       "name": "better-claude-code",
       "source": "./plugins/better-claude-code",
       "description": "更好的 Claude"
+    },
+    {
+      "name": "better-frontend",
+      "source": "./plugins/better-frontend",
+      "description": "更好的前端开发体验"
     }
   ]
 }
