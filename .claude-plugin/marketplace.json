@@ -32,9 +32,9 @@
       "description": "更好的前端开发体验"
     },
     {
-      "name": "better-code",
-      "source": "./plugins/better-code",
-      "description": "更好的代码质量，包括代码审查等工具"
+      "name": "better-coding",
+      "source": "./plugins/better-coding",
+      "description": "更好的编码体验，包括代码审查、Git 提交等工具"
     }
   ]
 }
