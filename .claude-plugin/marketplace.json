@@ -30,6 +30,11 @@
       "name": "better-frontend",
       "source": "./plugins/better-frontend",
       "description": "更好的前端开发体验"
+    },
+    {
+      "name": "better-code",
+      "source": "./plugins/better-code",
+      "description": "更好的代码质量，包括代码审查等工具"
     }
   ]
 }
